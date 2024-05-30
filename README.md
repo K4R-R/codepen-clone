@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed on render [Deploy link]([https://github.com/facebook/create-react-app](https://codepen-clone-ogpk.onrender.com)).
 
 ## Available Scripts
 
